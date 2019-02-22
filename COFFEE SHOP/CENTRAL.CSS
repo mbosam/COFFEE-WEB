@@ -1,0 +1,318 @@
+<!--MAIN PLATFORM OF CENTRAL COFFEE SHOP-->
+<!DOCTYPE HTML>
+<HTML>
+<head>
+<title> CENTRAL COFFEE SHOP </title>
+<style type="text/css">
+
+ body
+   
+   {
+     padding-left:9em;
+     font-family:geneva
+     color:purple;
+     background-color:lightblue;
+    
+     }
+     h1.one{
+             border-style: solid;
+             border-color:red green blue;
+             background-color:silver;
+            }
+   
+         
+     
+    <!-- .marquee
+         {
+         height:50px;
+         overflow:hidden;
+         position:relative;
+         background:lightgreen;
+         color:PURPLE;
+         border:1px solid orange;
+         }
+      .marquee p {
+          position: absolute;   
+          width:100p%;
+          height:100%;
+          margin:0;
+          line-height:70px;
+          text-align: center;
+        }
+ 
+    
+    ul.navbar {
+        list-style-type: none;
+        padding:0;
+        margin:0;
+        overflow;hidden;
+        position:absolute;
+        top: 1em;
+        left:1em;
+        background: #333;
+        width:8em;}
+
+       li
+         {float:left;}
+   
+
+   <!-- changes navigation button-->
+        ul.navbar li{
+        background: green;
+        margin: 0.5em 1;
+        padding: 0.2em;
+        border-right:em solid purple;
+         }
+   li a{
+        display:block;
+        text-align:center;
+        padding:14px 16px;
+        text-decoration:none;
+        width:70px;
+        background-color:#dddddd;
+       }
+
+<!--active button turn green-->
+    li a.ctive{
+        background-color:blue;
+        color:white;}
+
+    li a:hover:not(.active){ 
+
+       background-color:green;
+       color:white;}
+
+   ul.navbar a  {text-decoration:none}
+  
+    a:link
+        {color:GREEN}
+           
+    
+    a:visited
+        {color:blue}
+ 
+   address{
+    margin-top: 20em;
+    padding-top:10em;
+     float:RIGHT;
+    border-bottom: thin dotted}
+<!--body color change to blue--> 
+   body
+     {color:blue;}
+
+      h1
+     {color:green;}
+
+      
+<!-- heading shadow-->
+     h1{
+        text-shadow:3px 2px red;}
+
+
+   </style>
+<!--<div class="marquee">
+<p>CENTRAL COFFEE SHOP</P>
+</DIV>-->
+   </head>
+
+    
+<!--site navigation menu link -->
+
+<ul class ="navbar">
+   <li><a href="HOME.html"target="_blank">HOME</a></li>
+   <li><a href="About.html"target="_blank">ABOUT</a></li>
+    <li><a href="MENU.html"target="_blank">MENU</a></li>
+   <li><a href="location.html"target="_blank">LOCATION</a></li>
+</ul>
+
+
+<!--main content -->
+
+<h1 class="one"><b><center> CENTRAL COFFEE SHOP </center></b></h1>
+<!--<a href= "ass.doc"target="blank">ABOUT</a>-->
+<!--<form>
+   <textarea> This is the great area and coolest place to relax and enjoy...
+   </textarea>
+<select id="MENU" name="MENU">
+  <option value="co">coffee</option>
+   <option value="co">Tea</option>
+   <option value="co">Lemon</option>
+   <option value="co">Milo</option>
+</select>
+
+</form>
+-->
+
+<p> WELCOME TO CENTRAL COFFEE SHOP.
+<P> This is the best coffe shop to have coffee and lunch and dinner.
+<img src="Waterlilies.jpg" height= "50%",width="20%">
+     
+<!--sign and date -->
+<address> Samuel.M <br> 23/january/2019 
+</address>
+</body>
+</html>
+ <!--ABOUT PAGE-->
+ 
+<!DOCTYPE HTML>
+<HTML>
+<head>
+<title> CENTRAL COFFEE  SHOP MENU</title>
+<style type="text/css">
+
+ body
+      
+ {
+     padding-left:3em;
+     font-family:geneva
+     color:purple;
+     background-color:#ff9999;
+     }
+         
+<img scr="I:/Documents and Settings/bestman/Desktop/image1/main_2.jpg"
+            alt="trulli" width="500" height="333">  
+</style>
+<h1>Welcome to CENTRAL COFFEE SHOP</h1>
+<p> Central coffee shop is leading provider of:</p>
+<ul>
+  <li>Hotel accommodation worldwide</li>
+   <li>Offering booking services through its own website and telephone call centres</li>
+    <li>Gives travellers one of the widest selection of accommodation the net</li>
+</ul>
+</head>
+</body>
+</html>
+<!-- HOME PAGE-->
+
+<!DOCTYPE HTML>
+<HTML>
+<head>
+<title> CENTRAL COFFEE  SHOP MENU</title>
+<style type="text/css">
+
+ body
+      
+ {
+     padding-left:3em;
+     font-family:geneva
+     color:purple;
+     background-color:lightgreen;
+     }
+p.one{
+             border-style: solid;
+             border-color:red green blue;
+             background-color:lightgrey;
+             padding:5em;
+             width:30%;
+             height:20%;
+            }
+
+
+</style>
+<head> OUR HISTORY
+<img src="Waterlilies.jpg">
+<P class="one">
+
+ IN 2014 we introduced coffe drinking and qourment<br>
+    cafe culture to kenya.as we grew we created more sport<br>
+    where people could enjoy the central coffee experience conveniently.
+</p>
+
+</head>
+</html>
+
+<!--MENU PAGE-->
+
+
+<!DOCTYPE HTML>
+<HTML>
+<head>
+<title> CENTRAL COFFEE  SHOP MENU</title>
+<style type="text/css">
+
+ body
+      
+ {
+     padding-left:3em;
+     font-family:geneva
+     color:purple;
+     background-color:lightblue;
+     }
+      p.one{
+             border-style: solid;
+             border-color:red green blue;
+             background-color:lightgrey;
+             padding:8em;
+             width:30%;
+             height:20%;
+            }
+<!--textarea  {
+           width;400%;
+           height:500%;
+           background-color:orange;
+           font-size: 16px;
+           border-right:em solid black}-->
+</style>
+<head> OUR CENTRAL COFFEE SHOP MENU 
+<form>
+   <p class="one"> 
+    Whether it's a juicy burger and fries or a freshly made salad<br>
+    there's something for everyone in Central Coffee shop,<br>
+    we have extensive breakfast lunch and dinner menu<br>
+    with snacks available throught the day<br>
+    Our icecream is made fresh daily using<br>
+    only the freshest dairy cream and milk.<br>
+    All our Central Coffee nenu items are made fresh <br>
+    to order using only the finest naturalingredients.<br>
+   <!--<input type="html" name="waterlilies" accept="waterlilies/jpeg"/>-->
+    COFFEE...................	KSH 100<br>
+    MILO.....................	KSH 100<br>
+    LEMON....................	KSH 100<br>
+    MILK.....................	KSH 100<br>
+    VANILA CAKE..............	KSH 100<br>
+     
+   </p>
+</form>
+<p> 
+
+
+
+</head>
+</html>
+
+<!--LOCATION PAGE-->
+<!DOCTYPE HTML>
+<HTML>
+<head>
+<title> CENTRAL COFFEE  SHOP MENU</title>
+<style type="text/css">
+
+ body
+      
+ {
+     padding-left:3em;
+     font-family:geneva
+     color:purple;
+     background-color:#ff9999;
+     }
+</style>
+<h1>Contact Central Coffee Shop </h1>
+<p> contact as you wish</p>
+<h2>Office Hours </h2>
+<ul>
+  <li>Monday-Friday [8a.m-10p.m]</li>
+   <li>Support Email: centrcoffee.co.ke </li>
+    <li>Postal Adress: P.O.Box 1234-00100, Nairobi Kenya </li>
+    <li>Location :lois plaza 2nd floor river rd </li>
+</ul>
+</ul>
+</head>
+</body>
+</html>
+
+
+
+
+
+
+
